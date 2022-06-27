@@ -231,9 +231,91 @@ header .container{
 }
 
 
+.sab__form{
+    background-color: var(--back-color);
+    padding-bottom: 100px;
+}
+
+.sab__form .container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    border-radius: 32px;
+    padding-top: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
 
 
+.sab__titel h3{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+color: #118DA8;
+}
+.sab__titel h4{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 79px;
+    letter-spacing: 2.88px;
+    color: #FFFFFF;
+    padding-bottom: 143px;
+}
 
+.box__form{
+    width: 522px;
+}
+
+.form__name input{
+    padding-left: 19px;
+    display: block;
+    color: rgba(255, 255, 255, 0.7);
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    border: none;
+    height: 82px;
+    width: 100%;
+    border-bottom: solid 1px black;
+    background-color: #191919;
+    margin-bottom: 20px;
+}
+
+.form__email input{
+    padding-left: 19px;
+    display: block;
+    color: rgba(255, 255, 255, 0.7);
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    border: none;
+    height: 82px;
+    width: 100%;
+    border-bottom: solid 1px black;
+    background-color: #191919;
+    margin-bottom: 20px;
+}
+
+.fotm__btn a{
+    padding: 10px 19px;
+    background-color: var(--btn-back-color);
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+}
+.
 
 
 
