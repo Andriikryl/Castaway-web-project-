@@ -315,7 +315,67 @@ color: #118DA8;
     color: rgba(255, 255, 255, 0.7);
     border-radius: 10px;
 }
-.
+
+.box__reting{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: var(--back-color);
+}
+
+.box__reting-content{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
+.box__reting-content h3{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    padding-bottom: 19px;
+}
+
+.box__reting-content h4{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.box__reting-inner-text{
+    margin-right: 16px;
+    background-color: #000000;
+    padding: 90px 60px;
+    border-radius: 32px;
+}
+
+footer{
+    background-color: var(--back-color);
+    padding-top: 100px;
+    padding-bottom: 116px;
+}
+
+footer .container{
+    display: flex;
+    justify-content: space-between;
+}
+.fototer__logo{
+    padding-bottom: 20px;
+}
+
+.footer__inner-tipe a{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    color: #FFFFFF;
+    padding-bottom: 10px;
+}
 
 
 
